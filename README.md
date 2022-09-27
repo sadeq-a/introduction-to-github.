@@ -196,7 +196,7 @@ As noted in the previous step, you may have seen evidence of an action running w
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course and joined the world of developers!_
